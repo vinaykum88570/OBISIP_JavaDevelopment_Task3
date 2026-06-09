@@ -32,6 +32,6 @@ This project helped me strengthen my understanding of Java backend development, 
 
 <a href="www.google.com">#Java #SpringBoot #MySQL #Hibernate #ATMSystem #BackendDevelopment #JavaDeveloper #Programming #SoftwareDevelopment #Coding #Projects #LinkedInProjects</a>
 
-📂 Repository: <a href="https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task3">
-https://github.com/vinaykum88570/OIBSIP/tree/main/VinayKumdale_Task3
+📂 Repository: <a href="https://github.com/vinaykum88570/OBISIP_JavaDEvelopment_Task3">
+https://github.com/vinaykum88570/OBISIP_JavaDEvelopment_Task3
 </a>
